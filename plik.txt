@@ -1,2 +1,5 @@
 jakistekst
 test czy umiem git pulla
+
+
+chyba umiem
